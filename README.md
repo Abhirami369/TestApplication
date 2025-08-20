@@ -1,1 +1,1 @@
-#Updating TestApplication according to story of Developer A
+#Updating TestApplication according to the story of Developer A
